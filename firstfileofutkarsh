@@ -1,1 +1,9 @@
-
+Hello utkarsh dear how are you 
+Here we will learn about the difference between the container and pods 
+When we want to deploy an application we take the application convert into docker images using dockerfile,once the image is created that becomes portable run time environment  then we start running it as a container thatswhat docker really does.
+But in case of kubernates it is something else  
+It is pods sometimes there come a situation where we need to run one container in one or one application in one container but there are lot of time or situation where we need to run two different applications together
+Most common question is there how do we run two applications inside one container.we should avoid doing this because it makes the things complex   and difficult for docker to manage and running things in production work  
+csbfbsjbsk
+,sabsfbsbs
+smnm snsc sn nc snbfs n va c s 
